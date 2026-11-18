@@ -1,4 +1,3 @@
-# agent-analysis-results
 # Passive network characterisation of AI agents — result data
 
 Stage outputs, the frozen analysis plan and the task coding rubric for a thesis
@@ -214,7 +213,7 @@ measurement.** That is precisely the interpretation the validation refuted.
 Reference a **commit hash**, not a branch:
 
 ```
-https://github.com/<user>/<repo>/tree/<commit-sha>
+https://github.com/mintymyint/agent-analysis-results/tree/<commit-sha>
 ```
 
 A branch URL resolves to whatever the repository looks like when it is opened.
